@@ -12,3 +12,6 @@ Official Pytorch implementation for our paper **StoryImager: A Unified and Effic
 ### Datasets
 1. Download the preprocessed data for [PororoSV](https://drive.google.com/file/d/11Io1_BufAayJ1BpdxxV2uJUvCcirbrNc/view) [FlintstonesSV](https://drive.google.com/file/d/1kG4esNwabJQPWqadSDaugrlF4dRaV33_/view) and extract them to `data/`
 
+## Training
+
+## Evaluation
