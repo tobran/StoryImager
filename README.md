@@ -6,7 +6,6 @@ Official Pytorch implementation for our paper **StoryImager: A Unified and Effic
 ## Requirements
 - python 3.9
 - Pytorch 1.13
-- At least 1x12GB GPU (for training)
 
 ## Preparation
 ### Datasets
