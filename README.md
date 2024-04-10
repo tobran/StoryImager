@@ -9,7 +9,7 @@
 
 
 
-Official Pytorch implementation for our paper [**StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion**](https://arxiv.org/abs/2404.05979) by [Ming Tao](https://scholar.google.com/citations?user=5GlOlNUAAAAJ), [Bing-Kun Bao](https://scholar.google.com/citations?user=lDppvmoAAAAJ&hl=en), [Hao Tang](https://scholar.google.com/citations?user=9zJkeEMAAAAJ&hl=en), [Yangwei Wang](https://scholar.google.com/citations?user=o_DllmIAAAAJ&hl=en), [Changsheng Xu](https://scholar.google.com/citations?user=hI9NRDkAAAAJ). 
+Official Pytorch implementation for our paper [**StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion**](https://arxiv.org/abs/2404.05979) by [Ming Tao](https://scholar.google.com/citations?user=5GlOlNUAAAAJ), [Bing-Kun Bao](https://scholar.google.com/citations?user=lDppvmoAAAAJ&hl=en), [Hao Tang](https://scholar.google.com/citations?user=9zJkeEMAAAAJ&hl=en), [Yaowei Wang](https://scholar.google.com/citations?user=o_DllmIAAAAJ&hl=en), [Changsheng Xu](https://scholar.google.com/citations?user=hI9NRDkAAAAJ). 
 
 ## Requirements
 - python 3.9
