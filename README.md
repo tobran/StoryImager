@@ -1,4 +1,4 @@
-# StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion
+# StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion 
 
 
 <p align="center">
