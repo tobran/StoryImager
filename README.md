@@ -1,4 +1,4 @@
-# StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion 
+# [ECCV 2024] StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion 
 
 
 <p align="center">
